@@ -9,7 +9,6 @@
 <img alt="PlayStation" src="https://emojis.slackmojis.com/emojis/images/1643514156/1168/playstation.png?1643514156" width="24" height="24" />
 <img alt="Plex" src="https://emojis.slackmojis.com/emojis/images/1643514141/1004/plex.png?1643514141" width="24" height="24" />
 <img alt="Poké Ball" src="https://emojis.slackmojis.com/emojis/images/1643514062/186/pokeball.png?1643514062" width="24" height="24" />
-<img alt="PornHub" src="https://emojis.slackmojis.com/emojis/images/1643514489/4733/pornhub.png?1643514489" width="24" height="24" />
 <img alt="Rebel" src="https://emojis.slackmojis.com/emojis/images/1643514053/113/rebel.png?1643514053" width="24" height="24" />
 <img alt="Steam" src="https://emojis.slackmojis.com/emojis/images/1643514162/1238/steam.png?1643514162" width="24" height="24" />
 <img alt="Wikipedia" src="https://emojis.slackmojis.com/emojis/images/1643514171/1354/wikipedia.png?1643514171" width="24" height="24" />
